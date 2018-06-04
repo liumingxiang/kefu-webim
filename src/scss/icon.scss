@@ -359,3 +359,8 @@
 	@extend .icon-base;
 	content: "\a001"
 }
+.icon-sendvideo:before {
+	@extend .icon-base;
+	content: "\a025"
+}
+
